@@ -17,8 +17,6 @@
 
 ### Objetivo
 
-Descrição do objetivo
-
 Projeto desenvolvido durante o curso de [CSS Flex-box](https://www.origamid.com/curso/css-flexbox/) da plataforma de ensino [Origamid](https://www.origamid.com) com o intuito de colocar em prática os conceitos de posicionamento de elementos em uma interface web.
 
 ### Funcionalidades 
